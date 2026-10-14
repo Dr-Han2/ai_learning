@@ -1,0 +1,5 @@
+2026-10-09 19:08:55 | INFO     | clazz_service.py:49 | add | 新增班级记录成功. 班级：Clazz(id=12, name='测试1班', teacher_name='测试班主任', create_time=datetime.datetime(2026, 10, 9, 19, 8, 55, 297984), update_time=datetime.datetime(2026, 10, 9, 19, 8, 55, 297984))
+2026-10-09 19:22:03 | INFO     | student_service.py:50 | add | 新增学生成功 id=41 stu_num=S2025001
+2026-10-09 19:24:47 | INFO     | student_service.py:50 | add | 新增学生成功 id=42 stu_num=S2025001
+2026-10-09 19:27:00 | INFO     | clazz_service.py:49 | add | 新增班级记录成功. 班级：Clazz(id=13, name='测试1班', teacher_name='测试班主任', create_time=datetime.datetime(2026, 10, 9, 19, 27, 0, 113974), update_time=datetime.datetime(2026, 10, 9, 19, 27, 0, 113974))
+2026-10-09 19:30:10 | INFO     | student_service.py:50 | add | 新增学生成功 id=43 stu_num=S2025001

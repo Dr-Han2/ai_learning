@@ -1,0 +1,28 @@
+text
+
+初始化先验 prior=[0.5, 0.5] #[P(A), P(B)]
+
+定义转移矩阵 T=[[0.6, 0.4],
+              [0.4, 0.6]]
+
+ 对于每一个观测z:
+
+     #1. 预测
+     predicted = T @ prior
+
+     #2. 计算似然
+     if z == O_A:
+        likelihood = [P(O_A|A, P(O_A|B)] = [0.8, 0.2]
+     else if z == O_B:
+        likelihood = [P(O_B|A, P(O_B|B)] = [0.2, 0.8]
+
+     #3. 更新
+     posterior = likelihood * predcted       #逐元素相乘
+     posterior = posterior / sum(posterior)  #归一化
+
+     #4.  后验作为下一步先验
+     prior = posterior
+
+     输出 posterior
+
+

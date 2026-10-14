@@ -1,0 +1,16 @@
+2026-10-10 11:48:51 | WARNING  | user_service.py:38 | check_login | 登录失败：用户名或密码错误 username=root
+2026-10-10 11:49:43 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 11:51:53 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 11:57:29 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 11:58:56 | INFO     | student_service.py:56 | add | 新增学生成功 id=44 stu_num=S2025002
+2026-10-10 12:03:33 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 12:31:21 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 12:33:00 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 12:33:28 | INFO     | course_service.py:49 | add | 新增课程成功 id=12 name=Python
+2026-10-10 15:39:11 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 15:41:40 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 15:46:35 | INFO     | clazz_service.py:52 | add | 新增班级记录成功. 班级：Clazz(id=14, name='测试123班', teacher_name='测试123班班主任', create_time=datetime.datetime(2026, 10, 10, 15, 46, 35, 902230), update_time=datetime.datetime(2026, 10, 10, 15, 46, 35, 902230))
+2026-10-10 15:55:52 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 16:00:29 | WARNING  | clazz_service.py:37 | add | 班级名称已存在.
+2026-10-10 16:01:42 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
+2026-10-10 16:06:36 | INFO     | user_service.py:35 | check_login | 登录成功: User(id=1, username='admin', password='123456', real_name='系统管理员', create_time=datetime.datetime(2026, 7, 6, 20, 3, 7), update_time=datetime.datetime(2026, 7, 6, 20, 3, 7))
